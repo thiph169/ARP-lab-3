@@ -1,0 +1,15 @@
+Package: Euclistra
+Type: Package
+Title: Third Lab Assignment
+Version: 1.0
+Date: 2017-10-27
+Authors@R: c(
+    person("Somaya", "Khoda Bakhsh", email = "somkh364@student.liu.se", role = "cre"),
+    person("Thi", "Pham", email = "thiph169@student.liu.se", role = "aut"))
+Maintainer: Somaya <somkh364@student.liu.se>
+Description: This is a package contains two function and will be pushed and checked by travis.
+License: CC0
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 6.0.1
+Suggests: testthat
