@@ -14,4 +14,7 @@
 #' @references \href{http://www.r-tutor.com/r-introduction/data-frame}{R tutorial}
 #'
 #' @source From the lab manual
-#' @export 
+#' 
+#' @examples dijkstra(graph = wiki_graph, init_node = 1)
+
+"wiki_graph"
